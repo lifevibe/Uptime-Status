@@ -1,13 +1,13 @@
 {
-  "name": "uptime-status",
+  "name": "JEM'website",
   "version": "1.0.0",
   "private": true,
-  "author": "JLinmr",
+  "author": "技术支持:梦爱吃鱼大佬JLinmr",
   "url": "https://b.1766666.xyz",
   "email": "admin@1766666.xyz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lifevibe"
+    "url": "https://github.com/JLinMr"
   },
   "type": "module",
   "scripts": {
